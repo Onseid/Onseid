@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Olav Sævareid
+I'm a second-year Cybersecurity and Data Communiaction student at **NTNU**, passionate about **data science**, **pen testing**, **mathematics**, and **statistics**.
+---
+### :brain: Interests
+- Machine Learning & Deep Learning
+- Mathematical Modeling & Optimization
+- Reinforcement Learning
+- Data Analysis & Visualization
+---
+### :toolbox: Tech Stack
+**Languages**
+- Python
+- Java
+- Linux
 
-<!--
-**Onseid/Onseid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
