@@ -2,10 +2,9 @@
 I'm a second-year Cybersecurity and Data Communiaction student at **NTNU**, passionate about **data science**, **pen testing** and **mathematics**
 ---
 ### :brain: Interests
-- Machine Learning & Deep Learning
-- Mathematical Modeling & Optimization
-- Reinforcement Learning
+- Pen testing
 - Data Analysis & Visualization
+- Coding
 ---
 ### :toolbox: Tech Stack
 **Languages**
